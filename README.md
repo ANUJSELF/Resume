@@ -52,4 +52,4 @@
 ---
 
 ### 📂 📄 **Download My Resume**  
-[![Resume](https://img.shields.io/badge/Dynamic_Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/ANUJSELF/ANUJSELF/main/Anuj_Tiwari_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Dynamic_Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/ANUJSELF/resume/main/Anuj_resume_Data_Analytics.pdf)
